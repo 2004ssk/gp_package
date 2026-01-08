@@ -1,1 +1,1 @@
-# gp_package
+Custom lightweight guassian process package built with JAX
