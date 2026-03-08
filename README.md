@@ -92,7 +92,7 @@ See `requires.txt` for pinned versions.
 
 ## Background
 
-Built during a research assistantship at the [Bindel Lab](https://www.cs.cornell.edu/~bindel/) at Cornell University. The package was developed alongside work on Bayesian optimization and parameter-free SGD algorithms for convex objectives.
+Built during a research assistantship at the [Bindel Lab](https://www.cs.cornell.edu/~bindel/) at Cornell University. 
 
 ---
 
